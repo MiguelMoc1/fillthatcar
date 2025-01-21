@@ -87,16 +87,3 @@ Este proyecto proporciona una visión profunda de los patrones de compra en la p
 Estas observaciones pueden guiar estrategias para optimizar la experiencia del cliente y aumentar la retención en la plataforma.
 
 ---
-
-## Estructura del Repositorio
-- **`notebooks/`**: Código fuente y análisis detallado.
-- **`data/`**: Conjuntos de datos utilizados (no incluidos por restricciones de tamaño).
-- **`visualizations/`**: Gráficos generados durante el análisis.
-
----
-
-## Contacto
-Para más información sobre este proyecto, contáctame en:
-- **Email:** [tucorreo@dominio.com](mailto:tucorreo@dominio.com)
-- **LinkedIn:** [Tu Perfil](https://linkedin.com)
-- **Portafolio GitHub:** [Tu Usuario](https://github.com)
